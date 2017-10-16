@@ -1,0 +1,3 @@
+# LogFileSearcher
+
+Log searching application.
